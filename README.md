@@ -1,4 +1,3 @@
-# Port-Scanner-Python
 # B01 - Port Scanner Python
 
 ![Author](https://img.shields.io/badge/Author-dinoZ0G1-brightgreen?style=flat-square)

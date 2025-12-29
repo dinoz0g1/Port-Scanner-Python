@@ -1,0 +1,2 @@
+# No external dependencies needed
+# Pure Python3 + socket (built-in)
