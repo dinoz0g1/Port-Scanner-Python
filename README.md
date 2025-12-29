@@ -1,4 +1,4 @@
-# B01 - Port Scanner Python
+# 01 - Port Scanner Python
 
 ![Author](https://img.shields.io/badge/Author-dinoZ0G1-brightgreen?style=flat-square)
 Advanced multi-threaded port scanner for penetration testing.
